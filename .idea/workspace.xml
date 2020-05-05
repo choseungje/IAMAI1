@@ -2,10 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb53d737-e2bc-4aaa-93dd-5d4109b63ffa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/IAMAI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IAMAI.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/crawling_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawling_code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/한지민/한지민 얼굴1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/한지민/한지민 얼굴14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/한지민/한지민 얼굴16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/한지민/한지민 얼굴2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/한지민/한지민 얼굴20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/한지민/한지민 얼굴23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/한지민/한지민 얼굴24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/한지민/한지민 얼굴26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/한지민/한지민 얼굴27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/한지민/한지민 얼굴3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/한지민/한지민 얼굴41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/한지민/한지민 얼굴5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/한지민/한지민 얼굴58.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/한지민/한지민 얼굴59.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/한지민/한지민 얼굴6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/한지민/한지민 얼굴7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/한지민/한지민 얼굴71.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/한지민/한지민 얼굴77.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/한지민/한지민 얼굴8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/한지민/한지민 얼굴99.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,22 +120,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588089452372" />
-    <state width="1921" height="984" key="GridCell.Tab.0.bottom" timestamp="1588607804147">
+    <state width="1921" height="984" key="GridCell.Tab.0.bottom" timestamp="1588700308322">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="984" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588607804147" />
-    <state width="1921" height="984" key="GridCell.Tab.0.center" timestamp="1588607804147">
+    <state width="1921" height="984" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588700308322" />
+    <state width="1921" height="984" key="GridCell.Tab.0.center" timestamp="1588700308322">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="984" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588607804147" />
-    <state width="1921" height="984" key="GridCell.Tab.0.left" timestamp="1588607804147">
+    <state width="1921" height="984" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588700308322" />
+    <state width="1921" height="984" key="GridCell.Tab.0.left" timestamp="1588700308322">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="984" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588607804147" />
-    <state width="1921" height="984" key="GridCell.Tab.0.right" timestamp="1588607804147">
+    <state width="1921" height="984" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588700308322" />
+    <state width="1921" height="984" key="GridCell.Tab.0.right" timestamp="1588700308322">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="984" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588607804147" />
+    <state width="1921" height="984" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588700308322" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1588598332760">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

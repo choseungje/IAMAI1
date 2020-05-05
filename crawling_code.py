@@ -14,7 +14,7 @@ url = f'https://www.google.co.kr/search?as_st=y&tbm=isch&hl=ko&as_q={quote_plus(
 driver = webdriver.Chrome('C:/Users/syslab/Desktop/chromedriver/chromedriver.exe')
 driver.get(url)
 
-for i in range(1):
+for i in range(2):
     last_height = driver.execute_script("return document.body.scrollHeight")
     driver.execute_script('window.scrollBy(0,10000)')
     time.sleep(3)
