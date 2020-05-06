@@ -6,13 +6,15 @@ import time
 
 search = input('검색할 단어? ')
 
-
+# 고급검색 : 얼굴
 url = f'https://www.google.co.kr/search?as_st=y&tbm=isch&hl=ko&as_q={quote_plus(search)}&as_epq=&as_oq=&as_eq=&cr=&as_sitesearch=&safe=images&tbs=itp:face'
+# 고급검색 없음
+# url = f'https://www.google.co.kr/search?as_st=y&tbm=isch&hl=ko&as_q={quote_plus(search)}&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjb5fGhxprpAhXLdd4KHcm1BvAQ_AUoAXoECBcQAw&biw=1920&bih=969'
 
 driver = webdriver.Chrome('C:/Users/syslab/Desktop/chromedriver/chromedriver.exe')
 driver.get(url)
 
-for i in range(7):
+for i in range(2):
     last_height = driver.execute_script("return document.body.scrollHeight")
     driver.execute_script('window.scrollBy(0,10000)')
     time.sleep(3)
@@ -25,12 +27,11 @@ for i in range(7):
     print(str((i + 1) * 100))
 
 
-
 html = driver.page_source
 soup = BeautifulSoup(html)
 
 img = soup.select('.rg_i.Q4LuWd.tx8vtf')
-n=1
+n = 1
 imgurl = []
 for i in img:
     try:
@@ -39,7 +40,7 @@ for i in img:
         imgurl.append(i.attrs["data-src"])
 
 for i in imgurl:
-    urlretrieve(i,'./picture/'+ search + str(n) +'.jpg')
+    urlretrieve(i, './picture/'+ search + str(n) +'.jpg')
     n += 1
     print(i)
 driver.close()
