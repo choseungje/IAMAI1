@@ -2,6 +2,7 @@ import cv2
 import matplotlib.pyplot as plt
 import os
 
+print(os.getcwd())
 src = '../인물별_여우상'
 file_list = os.listdir(src)
 print(len(file_list))
