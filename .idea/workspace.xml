@@ -3,327 +3,27 @@
   <component name="ChangeListManager">
     <list default="true" id="fb53d737-e2bc-4aaa-93dd-5d4109b63ffa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/face/crop1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/face/crop_face.py" beforeDir="false" afterPath="$PROJECT_DIR$/face/crop_face.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/face/number2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁100.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁101.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁102.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁103.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁104.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁105.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁106.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁107.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁108.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁109.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁110.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁111.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁112.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁113.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁114.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁115.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁116.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁117.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁118.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁119.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁120.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁121.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁122.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁123.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁124.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁125.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁126.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁127.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁128.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁129.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁130.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁131.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁132.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁133.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁134.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁135.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁136.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁137.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁138.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁139.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁140.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁141.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁142.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁143.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁144.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁145.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁146.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁147.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁148.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁149.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁150.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁151.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁152.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁153.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁154.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁155.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁156.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁157.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁158.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁159.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁160.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁161.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁162.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁163.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁164.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁165.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁166.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁167.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁168.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁169.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁170.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁171.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁172.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁173.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁174.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁175.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁176.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁177.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁178.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁179.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁180.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁181.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁182.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁183.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁184.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁185.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁186.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁187.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁188.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁189.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁190.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁191.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁192.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁193.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁194.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁195.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁196.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁197.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁198.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁199.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁200.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁201.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁202.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁203.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁204.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁205.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁206.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁207.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁208.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁209.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁210.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁211.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁212.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁213.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁214.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁215.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁216.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁217.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁218.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁219.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁220.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁221.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁222.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁223.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁224.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁225.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁226.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁227.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁228.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁229.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁230.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁231.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁232.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁233.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁234.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁235.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁236.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁237.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁238.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁239.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁240.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁241.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁242.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁243.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁244.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁245.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁246.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁247.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁248.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁249.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁250.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁251.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁252.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁253.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁254.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁255.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁256.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁257.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁258.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁259.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁260.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁261.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁262.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁263.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁264.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁265.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁266.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁267.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁268.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁269.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁270.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁271.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁272.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁273.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁274.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁275.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁276.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁277.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁278.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁279.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁280.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁281.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁282.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁283.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁284.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁285.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁286.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁287.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁288.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁289.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁290.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁291.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁292.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁293.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁294.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁295.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁296.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁297.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁298.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁299.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁31.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁32.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁33.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁34.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁35.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁36.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁37.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁38.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁39.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁40.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁41.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁42.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁43.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁44.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁45.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁46.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁47.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁48.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁49.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁50.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁51.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁52.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁53.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁54.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁55.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁56.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁57.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁58.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁59.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁60.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁61.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁62.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁63.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁64.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁65.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁66.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁67.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁68.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁69.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁70.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁71.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁72.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁73.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁74.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁75.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁76.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁77.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁78.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁79.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁80.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁81.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁82.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁83.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁84.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁85.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁86.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁87.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁88.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁89.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁90.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁91.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁92.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁93.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁94.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁95.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁96.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁97.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁98.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture/남주혁99.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_여우상/남주혁/남주혁10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_여우상/남주혁/남주혁10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_여우상/남주혁/남주혁25.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_여우상/남주혁/남주혁25.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_여우상/안보현/안보현22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_여우상/안보현/안보현22.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_여우상/육성재/육성재12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_여우상/육성재/육성재12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_여우상/육성재/육성재6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_여우상/육성재/육성재6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_여우상/윤시윤/윤시윤17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_여우상/윤시윤/윤시윤17.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_여우상/윤시윤/윤시윤4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_여우상/윤시윤/윤시윤4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_여우상/이준기/이준기16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_여우상/이준기/이준기16.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_여우상/이준기/이준기3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_여우상/이준기/이준기3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_여우상/이준기/이준기66.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_여우상/이준기/이준기66.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_여우상/이준기/이준기90.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_여우상/이준기/이준기90.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_여우상/이준기/이준기94.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_여우상/이준기/이준기94.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_여우상/쯔위/티아라 지연127.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_여우상/티아라 지연/티아라 지연127.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_여우상/티아라 지연/티아라 지연127.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_여우상/티아라 지연/티아라 지연35.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_여우상/티아라 지연/티아라 지연35.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_여우상/헤이즈/헤이즈117.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_여우상/헤이즈/헤이즈117.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_여우상/황민현/황민현26.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_여우상/황민현/황민현26.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_여우상/황민현/황민현53.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_여우상/황민현/황민현53.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/공유/공유 얼굴16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/공유/공유 얼굴16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/공유/공유 얼굴2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/공유/공유 얼굴2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/공유/공유 얼굴21.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/공유/공유 얼굴21.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/공유/공유 얼굴52.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/공유/공유 얼굴52.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/김영광/모델 김영광 얼굴76.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/김영광/모델 김영광 얼굴76.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/김우빈/김우빈 얼굴12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/김우빈/김우빈 얼굴12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/김우빈/김우빈 얼굴170.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/김우빈/김우빈 얼굴170.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/김우빈/김우빈 얼굴18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/김우빈/김우빈 얼굴18.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/김우빈/김우빈 얼굴199.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/김우빈/김우빈 얼굴199.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/김우빈/김우빈 얼굴29.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/김우빈/김우빈 얼굴29.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/류준열/류준열 얼굴2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/류준열/류준열 얼굴2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/류준열/류준열 얼굴50.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/류준열/류준열 얼굴50.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/박시연/박시연 얼굴169.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/박시연/박시연 얼굴169.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/박시연/박시연 얼굴26.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/박시연/박시연 얼굴26.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/빅뱅 탑/빅뱅 탑 얼굴13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/빅뱅 탑/빅뱅 탑 얼굴13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/송지효/송지효 얼굴4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/송지효/송지효 얼굴4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/슈주 동해/슈퍼주니어 동해 얼굴3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/슈주 동해/슈퍼주니어 동해 얼굴3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/이민기/이번생은 처음이라 이민기168.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/이민기/이번생은 처음이라 이민기168.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/이민기/이번생은 처음이라 이민기36.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/이민기/이번생은 처음이라 이민기36.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/이민기/이번생은 처음이라 이민기90.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/이민기/이번생은 처음이라 이민기90.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/인물별_공룡상/이민정/이민정 화보24.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/이민정/이민정 화보24.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -350,7 +50,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../dog_cat_conv_2" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.crop_face">
@@ -491,26 +191,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="676" y="132" key="#sele/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588089241985" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1588876894026">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1588947212645">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588876894026" />
-    <state width="1281" height="928" key="GridCell.Tab.0.bottom" timestamp="1588945062169">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588947212645" />
+    <state width="1281" height="928" key="GridCell.Tab.0.bottom" timestamp="1588948932319">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1281" height="928" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588945062169" />
-    <state width="1281" height="928" key="GridCell.Tab.0.center" timestamp="1588945062169">
+    <state width="1281" height="928" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588948932319" />
+    <state width="1281" height="928" key="GridCell.Tab.0.center" timestamp="1588948932319">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1281" height="928" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588945062169" />
-    <state width="1281" height="928" key="GridCell.Tab.0.left" timestamp="1588945062168">
+    <state width="1281" height="928" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588948932319" />
+    <state width="1281" height="928" key="GridCell.Tab.0.left" timestamp="1588948932319">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1281" height="928" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588945062168" />
-    <state width="1281" height="928" key="GridCell.Tab.0.right" timestamp="1588945062169">
+    <state width="1281" height="928" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588948932319" />
+    <state width="1281" height="928" key="GridCell.Tab.0.right" timestamp="1588948932319">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1281" height="928" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588945062169" />
+    <state width="1281" height="928" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588948932319" />
     <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1588878013846">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -527,10 +227,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588878013846" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1588877180480">
+    <state x="461" y="162" key="SettingsEditor" timestamp="1588947135911">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588877180480" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588947135911" />
     <state x="-1999" y="-23" width="1296" height="728" maximized="true" key="dock-window-1" timestamp="1588934783173">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
