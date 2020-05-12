@@ -2,28 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb53d737-e2bc-4aaa-93dd-5d4109b63ffa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/IAMAI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IAMAI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_공룡상/공유/공유 얼굴16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/공유/공유 얼굴16.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_공룡상/공유/공유 얼굴2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/공유/공유 얼굴2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_공룡상/공유/공유 얼굴21.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/공유/공유 얼굴21.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_공룡상/공유/공유 얼굴52.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/공유/공유 얼굴52.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_공룡상/김영광/모델 김영광 얼굴76.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/김영광/모델 김영광 얼굴76.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_공룡상/김우빈/김우빈 얼굴12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/김우빈/김우빈 얼굴12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_공룡상/김우빈/김우빈 얼굴170.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/김우빈/김우빈 얼굴170.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_공룡상/김우빈/김우빈 얼굴18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/김우빈/김우빈 얼굴18.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_공룡상/김우빈/김우빈 얼굴199.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/김우빈/김우빈 얼굴199.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_공룡상/김우빈/김우빈 얼굴29.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/김우빈/김우빈 얼굴29.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_공룡상/류준열/류준열 얼굴2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/류준열/류준열 얼굴2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_공룡상/류준열/류준열 얼굴50.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/류준열/류준열 얼굴50.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_공룡상/박시연/박시연 얼굴169.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/박시연/박시연 얼굴169.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_공룡상/박시연/박시연 얼굴26.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/박시연/박시연 얼굴26.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_공룡상/빅뱅 탑/빅뱅 탑 얼굴13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/빅뱅 탑/빅뱅 탑 얼굴13.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_공룡상/송지효/송지효 얼굴4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/송지효/송지효 얼굴4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_공룡상/슈주 동해/슈퍼주니어 동해 얼굴3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/슈주 동해/슈퍼주니어 동해 얼굴3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_공룡상/이민기/이번생은 처음이라 이민기168.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/이민기/이번생은 처음이라 이민기168.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_공룡상/이민기/이번생은 처음이라 이민기36.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/이민기/이번생은 처음이라 이민기36.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_공룡상/이민기/이번생은 처음이라 이민기90.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/이민기/이번생은 처음이라 이민기90.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/인물별_공룡상/이민정/이민정 화보24.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/인물별_공룡상/이민정/이민정 화보24.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,52 +31,10 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../dog_cat_conv_2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.crop_face">
-    <configuration name="조승제_연습" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="IAMAI" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/조승제_연습.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="crawling_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="IAMAI" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawling_code.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="crop_face" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="IAMAI" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,6 +56,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IAMAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="qqqq" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="IAMAI" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,6 +90,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qqqq.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IAMAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_model.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,10 +143,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.crop_face" />
+        <item itemvalue="Python.run_model" />
+        <item itemvalue="Python.model" />
         <item itemvalue="Python.sdf" />
         <item itemvalue="Python.qqqq" />
-        <item itemvalue="Python.조승제_연습" />
-        <item itemvalue="Python.crawling_code" />
       </list>
     </recent_temporary>
   </component>
@@ -195,22 +176,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588947212645" />
-    <state width="1281" height="928" key="GridCell.Tab.0.bottom" timestamp="1588948932319">
+    <state width="1921" height="984" key="GridCell.Tab.0.bottom" timestamp="1589270306313">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1281" height="928" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588948932319" />
-    <state width="1281" height="928" key="GridCell.Tab.0.center" timestamp="1588948932319">
+    <state width="1921" height="984" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589270306313" />
+    <state width="1921" height="984" key="GridCell.Tab.0.center" timestamp="1589270306313">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1281" height="928" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588948932319" />
-    <state width="1281" height="928" key="GridCell.Tab.0.left" timestamp="1588948932319">
+    <state width="1921" height="984" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589270306313" />
+    <state width="1921" height="984" key="GridCell.Tab.0.left" timestamp="1589270306306">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1281" height="928" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588948932319" />
-    <state width="1281" height="928" key="GridCell.Tab.0.right" timestamp="1588948932319">
+    <state width="1921" height="984" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589270306306" />
+    <state width="1921" height="984" key="GridCell.Tab.0.right" timestamp="1589270306313">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1281" height="928" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588948932319" />
+    <state width="1921" height="984" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589270306313" />
     <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1588878013846">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -227,10 +208,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588878013846" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1588947135911">
+    <state x="461" y="162" key="SettingsEditor" timestamp="1589214669549">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588947135911" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589214669549" />
     <state x="-1999" y="-23" width="1296" height="728" maximized="true" key="dock-window-1" timestamp="1588934783173">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
