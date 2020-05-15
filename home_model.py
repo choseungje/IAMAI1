@@ -1,15 +1,10 @@
 import tensorflow as tf
 from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout
 from tensorflow.keras.callbacks import ModelCheckpoint, EarlyStopping
-from tensorflow.keras.models import load_model
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
 import os
-
-
-# def model_loading():
-#     return load_model('model.h5')
 
 
 class iamai:
@@ -40,6 +35,13 @@ class iamai:
 
         print("한 카테고리당 test 데이터 개수(test_data_num) :", self.test_data_num)
 
+        # 교차검증용 데이터
+        self.k_img_train = []
+        self.k_img_test = []
+        self.k_y_train = []
+        self.k_y_test = []
+        self.k_y_train_encoded = []
+
         # 이미지를 리스트에 입력
         self.img_train = []
         self.img_val = []
@@ -57,12 +59,59 @@ class iamai:
 
         # 모델 만들기
         self.model = tf.keras.Sequential()
-        self.get_model = None
         self.history = None
-        self.load_model_path = 'model/model.h5'
 
         print("초기화 완료")
         print()
+        print("=" * 50)
+
+    def k_fold_cv_data(self):
+        # 교차 검증용 데이터 생성
+        print("%d개의 카테고리" % len(self.category))
+        # 카테고리 개수
+        for category in range(len(self.category)):
+            # 카테고리 내의 데이터 개수
+            for data_num in range(self.data_num):
+                src = "picture/gray_resize_picture/" + self.category[category] + "_" + str(data_num + 1) + ".jpg"
+                # num < 192
+                if data_num < self.train_val_num:
+                    image = cv2.imread(src, cv2.IMREAD_UNCHANGED)
+                    self.k_img_train.append(image)
+                else:
+                    image = cv2.imread(src, cv2.IMREAD_UNCHANGED)
+                    self.k_img_test.append(image)
+
+            print("교차 검증용 %s 사진 읽어옴" % self.category[category])
+        print("교차 검증용 train data 개수 :", len(self.k_img_train))
+        print("교차 검증용 test data 개수 :", len(self.k_img_test))
+
+        print()
+
+        # k_y_train
+        y_num = -1
+        # 카테고리 개수만큼 생성
+        for category in range(len(self.category)):
+            # 훈련 데이터 개수만큼 반복
+            for num in range(self.train_val_num):
+                # 한 카테고리당 데이터 개수
+                # ex) num % 192 == 0
+                if num % self.train_val_num == 0:
+                    y_num += 1
+                    self.k_y_train.append(int(y_num))
+                else:
+                    self.k_y_train.append(int(y_num))
+        print("교차 검증용 훈련 데이터 y값 생성")
+        # print(self.y_train)
+        print("len(k_y_train) :", len(self.k_y_train))
+        print()
+
+        self.k_y_train_encoded = tf.keras.utils.to_categorical(self.k_y_train)
+
+        self.k_img_train = np.array(self.k_img_train)
+        self.k_img_train = self.k_img_train / 255
+        self.k_img_train = np.reshape(self.k_img_train, (-1, 128, 128, 1))
+        print("self.k_img_train.shape :", self.k_img_train.shape)
+        print("self.k_y_train_encoded.shape :", self.k_y_train_encoded.shape)
         print("=" * 50)
 
     def load_img(self):
@@ -71,16 +120,16 @@ class iamai:
         for category in range(len(self.category)):
             # 카테고리 내의 데이터 개수
             for data_num in range(self.data_num):
-                fox_src = "picture/gray_resize_picture/" + self.category[category] + "_" + str(data_num + 1) + ".jpg"
+                src = "picture/gray_resize_picture/" + self.category[category] + "_" + str(data_num + 1) + ".jpg"
                 # num < 192
                 if data_num < self.train_data_num:
-                    image = cv2.imread(fox_src, cv2.IMREAD_UNCHANGED)
+                    image = cv2.imread(src, cv2.IMREAD_UNCHANGED)
                     self.img_train.append(image)
                 elif data_num < self.train_data_num + self.val_data_num:
-                    image = cv2.imread(fox_src, cv2.IMREAD_UNCHANGED)
+                    image = cv2.imread(src, cv2.IMREAD_UNCHANGED)
                     self.img_val.append(image)
                 else:
-                    image = cv2.imread(fox_src, cv2.IMREAD_UNCHANGED)
+                    image = cv2.imread(src, cv2.IMREAD_UNCHANGED)
                     self.img_test.append(image)
 
             print("%s 사진 읽어옴" % self.category[category])
@@ -108,9 +157,9 @@ class iamai:
                 # ex) num % 192 == 0
                 if num % self.train_data_num == 0:
                     y_num += 1
-                    self.y_train.append(str(y_num))
+                    self.y_train.append(int(y_num))
                 else:
-                    self.y_train.append(str(y_num))
+                    self.y_train.append(int(y_num))
         print("훈련 데이터 y값 생성")
         # print(self.y_train)
         print("len(y_train) :", len(self.y_train))
@@ -126,9 +175,9 @@ class iamai:
                 # ex) num % 48 == 0
                 if num % self.val_data_num == 0:
                     y_num += 1
-                    self.y_val.append(str(y_num))
+                    self.y_val.append(int(y_num))
                 else:
-                    self.y_val.append(str(y_num))
+                    self.y_val.append(int(y_num))
         print("검증 데이터 y값 생성")
         print("len(y_val) :", len(self.y_val))
         print()
@@ -143,9 +192,9 @@ class iamai:
                 # ex) num % 60 == 0
                 if num % self.test_data_num == 0:
                     y_num += 1
-                    self.y_test.append(str(y_num))
+                    self.y_test.append(int(y_num))
                 else:
-                    self.y_test.append(str(y_num))
+                    self.y_test.append(int(y_num))
         print("test 데이터 y값 생성")
         print("len(y_test) :", len(self.y_test))
         print()
@@ -238,6 +287,9 @@ class iamai:
         # self.model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
         self.model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
 
+        return self.model
+
+    def training_model(self):
         # 모델을 저장
         MODEL_DIR = './model/'  # 모델 저장하는 폴더
         if not os.path.exists(MODEL_DIR):  # 위 폴더가 존재하지 않으면
@@ -278,4 +330,4 @@ class iamai:
         plt.legend(['train_accuracy', 'val_accuracy'])
         plt.show()
 
-        return self.model, self.history
+        return self.history
