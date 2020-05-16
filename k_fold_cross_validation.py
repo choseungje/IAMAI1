@@ -23,10 +23,12 @@ def create_model():
     model.add(Flatten())
     model.add(Dropout(0.3))
     model.add(Dense(256, activation='relu'))
+    # self.model.add(Dense(5, activation='softmax'))
     model.add(Dense(2, activation='sigmoid'))
 
     model.summary()
 
+    # self.model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
     model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
 
     print("=" * 50)
@@ -41,7 +43,7 @@ print(run.k_y_train_encoded.shape)
 k_fold_model = KerasClassifier(build_fn=create_model, epochs=20, batch_size=128, verbose=0)
 print(k_fold_model)
 
-k_fold = KFold(n_splits=5)
+k_fold = KFold(n_splits=10, shuffle=True)
 
 result = cross_val_score(estimator=k_fold_model, X=run.k_img_train, y=run.k_y_train_encoded, cv=k_fold)
 print(result)

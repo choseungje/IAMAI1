@@ -215,9 +215,6 @@ class iamai:
         self.y_val_encoded = tf.keras.utils.to_categorical(self.y_val)
         self.y_test_encoded = tf.keras.utils.to_categorical(self.y_test)
         print("원-핫 인코딩 완료")
-        # print(type(self.img_train))
-        # print(type(self.img_train[1]))
-        # print(self.img_train[1].shape)
 
         # np.array로 변환
         self.img_train = np.array(self.img_train)
@@ -241,19 +238,13 @@ class iamai:
         print("채널 설정 성공")
         # print(self.img_train)
 
-        print("훈련 데이터 : ")
-        print(self.img_train.shape)
-        print("검증 데이터 : ")
-        print(self.img_val.shape)
-        print("test 데이터 :")
-        print(self.img_test.shape)
+        print("훈련 데이터 :", self.img_train.shape)
+        print("검증 데이터 :", self.img_val.shape)
+        print("test 데이터 :", self.img_test.shape)
         print()
-        print("타깃 훈련 데이터 : ")
-        print(len(self.y_train))
-        print("타깃 검증 데이터(원-핫 인코딩) : ")
-        print(len(self.y_val_encoded))
-        print("타깃 test 데이터 :")
-        print(len(self.y_test))
+        print("len(self.y_train) :", len(self.y_train))
+        print("len(self.y_val_encoded) :", len(self.y_val_encoded))
+        print("len(self.y_test) :", len(self.y_test))
 
         print("=" * 50)
 
