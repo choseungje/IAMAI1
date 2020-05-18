@@ -3,9 +3,606 @@
   <component name="ChangeListManager">
     <list default="true" id="fb53d737-e2bc-4aaa-93dd-5d4109b63ffa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/home_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k_fold_cross_validation.py" beforeDir="false" afterPath="$PROJECT_DIR$/k_fold_cross_validation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model_evaluate.py" beforeDir="false" afterPath="$PROJECT_DIR$/model_evaluate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_100.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_100.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_101.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_101.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_102.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_102.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_103.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_103.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_104.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_104.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_105.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_105.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_106.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_106.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_107.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_107.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_108.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_108.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_109.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_109.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_110.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_110.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_111.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_111.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_112.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_112.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_113.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_113.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_114.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_114.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_115.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_115.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_116.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_116.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_117.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_117.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_118.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_118.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_119.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_119.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_120.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_120.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_121.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_121.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_122.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_122.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_123.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_123.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_124.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_124.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_125.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_125.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_126.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_126.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_127.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_127.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_128.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_128.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_129.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_129.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_130.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_130.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_131.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_131.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_132.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_132.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_133.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_133.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_134.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_134.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_135.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_135.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_136.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_136.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_137.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_137.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_138.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_138.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_139.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_139.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_140.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_140.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_141.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_141.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_142.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_142.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_143.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_143.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_144.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_144.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_145.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_145.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_146.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_146.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_147.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_147.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_148.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_148.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_149.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_149.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_150.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_150.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_151.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_151.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_152.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_152.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_153.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_153.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_154.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_154.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_155.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_155.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_156.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_156.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_157.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_157.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_158.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_158.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_159.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_159.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_160.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_160.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_161.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_161.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_162.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_162.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_163.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_163.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_164.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_164.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_165.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_165.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_166.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_166.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_167.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_167.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_168.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_168.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_169.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_169.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_17.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_170.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_170.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_171.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_171.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_172.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_172.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_173.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_173.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_174.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_174.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_175.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_175.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_176.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_176.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_177.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_177.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_178.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_178.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_179.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_179.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_18.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_180.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_180.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_181.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_181.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_182.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_182.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_183.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_183.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_184.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_184.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_185.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_185.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_186.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_186.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_187.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_187.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_188.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_188.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_189.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_189.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_19.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_190.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_190.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_191.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_191.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_192.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_192.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_193.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_193.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_194.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_194.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_195.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_195.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_196.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_196.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_197.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_197.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_198.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_198.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_199.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_199.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_20.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_200.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_200.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_201.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_201.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_202.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_202.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_203.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_203.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_204.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_204.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_205.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_205.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_206.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_206.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_207.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_207.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_208.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_208.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_209.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_209.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_21.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_21.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_210.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_210.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_211.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_211.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_212.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_212.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_213.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_213.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_214.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_214.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_215.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_215.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_216.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_216.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_217.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_217.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_218.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_218.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_219.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_219.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_22.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_220.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_220.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_221.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_221.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_222.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_222.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_223.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_223.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_224.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_224.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_225.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_225.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_226.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_226.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_227.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_227.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_228.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_228.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_229.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_229.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_23.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_23.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_230.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_230.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_231.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_231.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_232.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_232.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_233.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_233.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_234.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_234.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_235.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_235.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_236.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_236.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_237.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_237.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_238.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_238.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_239.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_239.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_24.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_24.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_240.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_240.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_241.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_241.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_242.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_242.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_243.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_243.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_244.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_244.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_245.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_245.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_246.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_246.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_247.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_247.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_248.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_248.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_249.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_249.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_25.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_25.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_250.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_250.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_251.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_251.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_252.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_252.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_253.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_253.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_254.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_254.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_255.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_255.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_256.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_256.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_257.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_257.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_258.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_258.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_259.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_259.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_26.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_26.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_260.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_260.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_261.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_261.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_262.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_262.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_263.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_263.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_264.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_264.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_265.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_265.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_266.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_266.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_267.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_267.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_268.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_268.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_269.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_269.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_27.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_27.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_270.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_270.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_271.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_271.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_272.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_272.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_273.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_273.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_274.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_274.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_275.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_275.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_276.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_276.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_277.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_277.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_278.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_278.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_279.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_279.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_28.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_28.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_280.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_280.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_281.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_281.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_282.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_282.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_283.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_283.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_284.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_284.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_285.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_285.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_286.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_286.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_287.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_287.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_288.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_288.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_289.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_289.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_29.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_29.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_290.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_290.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_291.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_291.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_292.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_292.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_293.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_293.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_294.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_294.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_295.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_295.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_296.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_296.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_297.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_297.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_298.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_298.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_299.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_299.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_30.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_30.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_300.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_300.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_31.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_31.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_32.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_32.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_33.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_33.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_34.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_34.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_35.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_35.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_36.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_36.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_37.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_37.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_38.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_38.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_39.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_39.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_40.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_40.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_41.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_41.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_42.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_42.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_43.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_43.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_44.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_44.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_45.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_45.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_46.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_46.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_47.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_47.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_48.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_48.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_49.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_49.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_50.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_50.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_51.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_51.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_52.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_52.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_53.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_53.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_54.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_54.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_55.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_55.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_56.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_56.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_57.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_57.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_58.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_58.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_59.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_59.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_60.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_60.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_61.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_61.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_62.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_62.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_63.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_63.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_64.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_64.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_65.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_65.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_66.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_66.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_67.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_67.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_68.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_68.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_69.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_69.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_70.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_70.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_71.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_71.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_72.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_72.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_73.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_73.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_74.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_74.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_75.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_75.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_76.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_76.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_77.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_77.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_78.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_78.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_79.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_79.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_80.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_80.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_81.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_81.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_82.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_82.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_83.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_83.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_84.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_84.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_85.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_85.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_86.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_86.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_87.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_87.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_88.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_88.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_89.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_89.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_90.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_90.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_91.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_91.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_92.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_92.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_93.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_93.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_94.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_94.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_95.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_95.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_96.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_96.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_97.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_97.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_98.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_98.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/dino_99.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/dino_99.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_100.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_100.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_101.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_101.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_102.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_102.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_103.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_103.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_104.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_104.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_105.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_105.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_106.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_106.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_107.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_107.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_108.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_108.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_109.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_109.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_110.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_110.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_111.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_111.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_112.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_112.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_113.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_113.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_114.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_114.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_115.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_115.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_116.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_116.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_117.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_117.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_118.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_118.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_119.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_119.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_120.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_120.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_121.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_121.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_122.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_122.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_123.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_123.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_124.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_124.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_125.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_125.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_126.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_126.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_127.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_127.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_128.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_128.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_129.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_129.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_130.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_130.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_131.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_131.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_132.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_132.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_133.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_133.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_134.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_134.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_135.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_135.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_136.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_136.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_137.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_137.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_138.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_138.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_139.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_139.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_140.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_140.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_141.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_141.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_142.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_142.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_143.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_143.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_144.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_144.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_145.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_145.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_146.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_146.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_147.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_147.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_148.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_148.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_149.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_149.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_150.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_150.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_151.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_151.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_152.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_152.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_153.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_153.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_154.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_154.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_155.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_155.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_156.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_156.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_157.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_157.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_158.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_158.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_159.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_159.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_160.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_160.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_161.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_161.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_162.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_162.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_163.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_163.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_164.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_164.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_165.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_165.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_166.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_166.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_167.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_167.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_168.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_168.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_169.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_169.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_17.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_170.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_170.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_171.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_171.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_172.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_172.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_173.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_173.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_174.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_174.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_175.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_175.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_176.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_176.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_177.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_177.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_178.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_178.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_179.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_179.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_18.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_180.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_180.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_181.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_181.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_182.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_182.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_183.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_183.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_184.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_184.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_185.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_185.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_186.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_186.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_187.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_187.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_188.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_188.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_189.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_189.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_19.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_190.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_190.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_191.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_191.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_192.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_192.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_193.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_193.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_194.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_194.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_195.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_195.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_196.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_196.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_197.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_197.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_198.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_198.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_199.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_199.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_20.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_200.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_200.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_201.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_201.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_202.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_202.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_203.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_203.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_204.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_204.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_205.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_205.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_206.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_206.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_207.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_207.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_208.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_208.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_209.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_209.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_21.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_21.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_210.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_210.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_211.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_211.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_212.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_212.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_213.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_213.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_214.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_214.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_215.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_215.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_216.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_216.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_217.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_217.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_218.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_218.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_219.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_219.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_22.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_220.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_220.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_221.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_221.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_222.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_222.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_223.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_223.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_224.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_224.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_225.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_225.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_226.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_226.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_227.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_227.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_228.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_228.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_229.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_229.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_23.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_23.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_230.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_230.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_231.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_231.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_232.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_232.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_233.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_233.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_234.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_234.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_235.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_235.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_236.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_236.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_237.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_237.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_238.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_238.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_239.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_239.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_24.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_24.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_240.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_240.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_241.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_241.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_242.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_242.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_243.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_243.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_244.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_244.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_245.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_245.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_246.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_246.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_247.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_247.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_248.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_248.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_249.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_249.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_25.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_25.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_250.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_250.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_251.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_251.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_252.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_252.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_253.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_253.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_254.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_254.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_255.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_255.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_256.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_256.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_257.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_257.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_258.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_258.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_259.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_259.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_26.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_26.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_260.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_260.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_261.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_261.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_262.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_262.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_263.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_263.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_264.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_264.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_265.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_265.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_266.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_266.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_267.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_267.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_268.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_268.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_269.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_269.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_27.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_27.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_270.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_270.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_271.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_271.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_272.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_272.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_273.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_273.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_274.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_274.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_275.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_275.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_276.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_276.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_277.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_277.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_278.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_278.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_279.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_279.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_28.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_28.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_280.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_280.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_281.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_281.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_282.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_282.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_283.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_283.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_284.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_284.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_285.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_285.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_286.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_286.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_287.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_287.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_288.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_288.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_289.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_289.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_29.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_29.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_290.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_290.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_291.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_291.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_292.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_292.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_293.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_293.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_294.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_294.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_295.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_295.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_296.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_296.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_297.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_297.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_298.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_298.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_299.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_299.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_30.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_30.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_300.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_300.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_31.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_31.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_32.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_32.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_33.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_33.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_34.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_34.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_35.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_35.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_36.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_36.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_37.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_37.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_38.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_38.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_39.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_39.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_40.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_40.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_41.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_41.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_42.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_42.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_43.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_43.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_44.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_44.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_45.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_45.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_46.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_46.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_47.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_47.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_48.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_48.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_49.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_49.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_50.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_50.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_51.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_51.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_52.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_52.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_53.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_53.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_54.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_54.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_55.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_55.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_56.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_56.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_57.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_57.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_58.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_58.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_59.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_59.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_60.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_60.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_61.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_61.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_62.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_62.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_63.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_63.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_64.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_64.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_65.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_65.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_66.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_66.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_67.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_67.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_68.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_68.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_69.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_69.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_70.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_70.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_71.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_71.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_72.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_72.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_73.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_73.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_74.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_74.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_75.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_75.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_76.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_76.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_77.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_77.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_78.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_78.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_79.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_79.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_80.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_80.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_81.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_81.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_82.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_82.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_83.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_83.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_84.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_84.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_85.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_85.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_86.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_86.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_87.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_87.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_88.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_88.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_89.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_89.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_90.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_90.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_91.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_91.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_92.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_92.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_93.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_93.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_94.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_94.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_95.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_95.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_96.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_96.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_97.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_97.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_98.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_98.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture/gray_resize_picture/fox_99.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/gray_resize_picture/fox_99.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +633,28 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.k_fold_cross_validation">
+  <component name="RunManager" selected="Python.gray_resize (1)">
+    <configuration name="gray_resize (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IAMAI1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crop_image" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crop_image/gray_resize.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="gray_resize" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="IAMAI1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -50,27 +668,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gray_resize.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="home_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="IAMAI1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_model.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +741,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.gray_resize (1)" />
         <item itemvalue="Python.k_fold_cross_validation" />
         <item itemvalue="Python.model_evaluate" />
         <item itemvalue="Python.gray_resize" />
         <item itemvalue="Python.run" />
-        <item itemvalue="Python.home_model" />
       </list>
     </recent_temporary>
   </component>
@@ -183,26 +780,26 @@
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589372171792" />
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589571369644" />
-    <state width="1921" height="984" key="GridCell.Tab.0.bottom" timestamp="1589626289374">
+    <state width="1921" height="984" key="GridCell.Tab.0.bottom" timestamp="1589805177748">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1921" height="984" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589478954188" />
-    <state width="1921" height="984" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589626289374" />
-    <state width="1921" height="984" key="GridCell.Tab.0.center" timestamp="1589626289374">
+    <state width="1921" height="984" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589805177748" />
+    <state width="1921" height="984" key="GridCell.Tab.0.center" timestamp="1589805177748">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1921" height="984" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589478954188" />
-    <state width="1921" height="984" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589626289374" />
-    <state width="1921" height="984" key="GridCell.Tab.0.left" timestamp="1589626289374">
+    <state width="1921" height="984" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589805177748" />
+    <state width="1921" height="984" key="GridCell.Tab.0.left" timestamp="1589805177748">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1921" height="984" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589478954188" />
-    <state width="1921" height="984" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589626289374" />
-    <state width="1921" height="984" key="GridCell.Tab.0.right" timestamp="1589626289374">
+    <state width="1921" height="984" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589805177748" />
+    <state width="1921" height="984" key="GridCell.Tab.0.right" timestamp="1589805177748">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1921" height="984" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589478954188" />
-    <state width="1921" height="984" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589626289374" />
+    <state width="1921" height="984" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589805177748" />
     <state width="1881" height="344" key="GridCell.Tab.1.bottom" timestamp="1589405422252">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -228,10 +825,10 @@
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1280.984/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589470466821" />
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589556941953" />
-    <state x="652" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1589571358956">
+    <state x="652" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1589802607960">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="652" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589571358956" />
+    <state x="652" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589802607960" />
     <state x="1920" y="0" width="1296" height="1027" key="dock-window-1" timestamp="1589368904796">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
