@@ -21,15 +21,15 @@ def create_model():
 
     # 1,256
     model.add(Flatten())
-    model.add(Dropout(0.3))
+    model.add(Dropout(0.5))
     model.add(Dense(256, activation='relu'))
-    # self.model.add(Dense(5, activation='softmax'))
-    model.add(Dense(2, activation='sigmoid'))
+    model.add(Dense(3, activation='softmax'))
+    # model.add(Dense(2, activation='sigmoid'))
 
     model.summary()
 
-    # self.model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
-    model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
+    model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
+    # model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
 
     print("=" * 50)
 

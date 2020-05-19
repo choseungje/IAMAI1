@@ -1,6 +1,7 @@
 import tensorflow as tf
 from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout
 from tensorflow.keras.callbacks import ModelCheckpoint, EarlyStopping
+from keras import regularizers
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
@@ -10,11 +11,11 @@ import os
 class iamai:
     def __init__(self):
         # 카테고리 리스트
-        # self.category = ['dog', 'cat', 'rabbit', 'fox', 'dino']
-        self.category = ['fox', 'dino']
+        self.category = ['dog', 'cat', 'rabbit', 'fox', 'dino']
+        # self.category = ['cat', 'fox', 'dino']
 
         # 카테고리당 데이터 개수
-        self.data_num = 300
+        self.data_num = 1000
         # 전체 이미지 개수
         self.all_data_num = len(self.category) * self.data_num
         print("전체 이미지 개수(all_data_num) :", self.all_data_num)
@@ -242,6 +243,7 @@ class iamai:
         print("검증 데이터 :", self.img_val.shape)
         print("test 데이터 :", self.img_test.shape)
         print()
+        print("y_train_encoded shape :", self.y_train_encoded.shape)
         print("len(self.y_train) :", len(self.y_train))
         print("len(self.y_val_encoded) :", len(self.y_val_encoded))
         print("len(self.y_test) :", len(self.y_test))
@@ -255,28 +257,34 @@ class iamai:
         # 128, 128
         self.model.add(Conv2D(32, (5, 5), padding='same', activation='relu', input_shape=(128, 128, 1)))
         self.model.add(MaxPooling2D(2, 2))  # ->64,64
+        self.model.add(Dropout(0.5))
 
         self.model.add(Conv2D(32, (5, 5), padding='same', activation='relu'))
         self.model.add(MaxPooling2D(2, 2))  # ->32,32
+        self.model.add(Dropout(0.5))
 
-        self.model.add(Conv2D(32, (5, 5), padding='same', activation='relu'))
+        self.model.add(Conv2D(64, (5, 5), padding='same', activation='relu'))
         self.model.add(MaxPooling2D(2, 2))  # ->16, 16
+        self.model.add(Dropout(0.5))
 
         # 1,256
         self.model.add(Flatten())
         # 하나의 레이어가 이전 레이어로부터 같은 입력을 두번 이상 받지 못하도록 한다.
-        self.model.add(Dropout(0.3))
+
         # print("create Classifier")
-        self.model.add(Dense(256, activation='relu'))
-        # self.model.add(Dense(5, activation='softmax'))
-        self.model.add(Dense(2, activation='sigmoid'))
+        self.model.add(Dense(256, activation='relu', kernel_regularizer=regularizers.l2(0.001)))
+        self.model.add(Dropout(0.5))
+        # self.model.add(Dense(128, activation='relu'))
+        # self.model.add(Dropout(0.5))
+        self.model.add(Dense(5, activation='softmax'))
+        # self.model.add(Dense(2, activation='sigmoid'))
 
         self.model.summary()
 
         # 컴파일 : 모델을 기계가 이해할 수 있도록 컴파일 합니다. 오차 함수와 최적화 방법, 메트릭 함수를 선택할 수 있다.
         # adam 은 손실 함수의 값이 최적값에 가까워질수록 학습률을 낮춰 손실 함수의 값이 안정적으로 수렴될 수 있게 해준다.
-        # self.model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
-        self.model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
+        self.model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
+        # self.model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
 
         return self.model
 
@@ -291,12 +299,15 @@ class iamai:
         check_pointer = ModelCheckpoint(filepath=model_path, monitor='val_loss', verbose=1, save_best_only=True)
         print("체크포인터 생성")
 
-        early_stopping_callback = EarlyStopping(monitor='val_loss', patience=3)
+        # early_stopping_callback = EarlyStopping(monitor='val_loss', patience=5)
 
-        self.history = self.model.fit(self.img_train, self.y_train_encoded, epochs=50,
+        # self.history = self.model.fit(self.img_train, self.y_train_encoded, epochs=50,
+        #                               validation_data=(self.img_val, self.y_val_encoded),
+        #                               callbacks=[check_pointer, early_stopping_callback],
+        #                               batch_size=128)
+        self.history = self.model.fit(self.img_train, self.y_train_encoded, epochs=3000,
                                       validation_data=(self.img_val, self.y_val_encoded),
-                                      callbacks=[check_pointer, early_stopping_callback],
-                                      batch_size=128)
+                                      batch_size=64)
         print("학습 종료")
 
         # 모델을 저장
@@ -322,3 +333,12 @@ class iamai:
         plt.show()
 
         return self.history
+
+
+def run_func():
+    run = iamai()
+    run.load_img()
+    run.create_y()
+    run.data_pretreatment()
+    run.create_model()
+    run.training_model()
