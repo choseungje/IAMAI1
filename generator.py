@@ -1,11 +1,15 @@
 from keras.preprocessing.image import ImageDataGenerator, img_to_array, load_img
+import numpy as np
+import os
 
+img_dir = os.listdir("./data/confirm_man/dog")
+# img_dir = os.listdir("../s")
 datagen = ImageDataGenerator(
     rescale=1. / 255,  # RGB 계수를 1/255로 스케일링하여 0-1 범위로 변환
     # 정수. 무작위 회전의 각도 범위
-    rotation_range=30,
-    # 임의 전단 변환 (shearing transformation) 범위
-    shear_range=5.5,
+    rotation_range=15,
+    # # 임의 전단 변환 (shearing transformation) 범위
+    # shear_range=5.5,
     # 그림을 수평 또는 수직으로 랜덤하게 평행 이동시키는 범위
     # (원본 가로, 세로 길이에 대한 비율 값)
     width_shift_range=0.1,
@@ -17,18 +21,17 @@ datagen = ImageDataGenerator(
     vertical_flip=False,
     fill_mode='nearest')
 
-for data_num in range(500, 1000):
-    src = "crop_image/dino/dino_" + str(data_num+1) + ".jpg"
-    img = load_img(src)  # PIL 이미지
-    x = img_to_array(img)  # (3, 150, 150) 크기의 NumPy 배열
 
-    x = x.reshape((1,) + x.shape)  # (1, 3, 150, 150) 크기의 NumPy 배열
+for idx, dir_img in enumerate(img_dir):
+    src = "./data/confirm_man/dog/" + dir_img
+    # src = "../s/" + dir_img
+    img = load_img(src)
+    x = img_to_array(img)
+    print(idx, dir_img)
 
-    # 아래 .flow() 함수는 임의 변환된 이미지를 배치 단위로 생성해서
-    # 지정된 `preview/` 폴더에 저장
-    i = 0
-    for batch in datagen.flow(x, batch_size=1, save_to_dir='picture/gray_resize_picture', save_prefix='dino', save_format='jpg'):
-        i += 1
-        if i >= 20:
-            print(data_num + 1, i)
-            break  # 이미지 20장을 생성하고 마칩니다
+    x = x.reshape((1,) + x.shape)
+    gen = datagen.flow(x, batch_size=1, save_to_dir='./data/confirm_man/g_dogcat', save_prefix='dogcat1_' + str(idx),
+                       save_format='jpg')
+
+    for i in range(10):
+        gen.__next__()

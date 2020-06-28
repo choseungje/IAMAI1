@@ -5,11 +5,19 @@
       <excludeFolder url="file://$MODULE_DIR$/crawling_cat_fox_dino" />
       <excludeFolder url="file://$MODULE_DIR$/crawling_dog_rabbit" />
       <excludeFolder url="file://$MODULE_DIR$/crop_image" />
+      <excludeFolder url="file://$MODULE_DIR$/data" />
+      <excludeFolder url="file://$MODULE_DIR$/img_data" />
+      <excludeFolder url="file://$MODULE_DIR$/img_data2" />
+      <excludeFolder url="file://$MODULE_DIR$/picture" />
       <excludeFolder url="file://$MODULE_DIR$/resemble_cat" />
       <excludeFolder url="file://$MODULE_DIR$/resemble_dinosaur" />
       <excludeFolder url="file://$MODULE_DIR$/resemble_dog" />
       <excludeFolder url="file://$MODULE_DIR$/resemble_fox" />
       <excludeFolder url="file://$MODULE_DIR$/resemble_rabbit" />
+      <excludeFolder url="file://$MODULE_DIR$/reset_data" />
+      <excludeFolder url="file://$MODULE_DIR$/small_data" />
+      <excludeFolder url="file://$MODULE_DIR$/안드로이드앱_홍동국" />
+      <excludeFolder url="file://$MODULE_DIR$/앱_김동근" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -11,7 +11,8 @@ url = f'https://www.google.co.kr/search?as_st=y&tbm=isch&hl=ko&as_q={quote_plus(
 # 고급검색 없음
 # url = f'https://www.google.co.kr/search?as_st=y&tbm=isch&hl=ko&as_q={quote_plus(search)}&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjb5fGhxprpAhXLdd4KHcm1BvAQ_AUoAXoECBcQAw&biw=1920&bih=969'
 
-driver = webdriver.Chrome('C:/Users/syslab/Desktop/chromedriver/chromedriver.exe')
+# driver = webdriver.Chrome('C:/Users/syslab/Desktop/chromedriver/chromedriver.exe')
+driver = webdriver.Chrome('C:/Users/조승제/Desktop/chromedriver.exe')
 driver.get(url)
 
 for i in range(2):
@@ -40,7 +41,7 @@ for i in img:
         imgurl.append(i.attrs["data-src"])
 
 for i in imgurl:
-    urlretrieve(i, './picture/'+ search + str(n) +'.jpg')
+    urlretrieve(i, 'reset_data/lee_jong_seok/'+ str(n) +'.jpg')
     n += 1
     print(i)
 driver.close()
